@@ -1,0 +1,22 @@
+#footer #here  h4{
+	font-size: 18px;
+	line-height: 35px;	
+}
+#here a{
+	display: block;
+	text-decoration: none;
+	color: black !important;
+	font-size: 13px;
+	line-height: 15px;
+}
+#bottonfooter a{
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	margin: 0px 20px;
+	font-size: 16px;
+	transition: .5s ease-out;
+}
+#bottonfooter a:hover{
+	text-decoration: underline;
+}
